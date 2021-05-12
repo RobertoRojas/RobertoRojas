@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello all!
 
-<!--
-**RobertoRojas/RobertoRojas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Roberto Rojas and I work to automate processes. I like to work with the follow languages:
 
-Here are some ideas to get you started:
+- *Powershell*
+- *Python*
+- *Bash*
+- *Batch*
+- *Javascript*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to work in new things, so, if you have any project or I can help you in something, please be free to send me an email to:
+
+- **developer@robertorojas.com.mx**
